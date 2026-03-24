@@ -1,0 +1,1600 @@
+Receiving audio... (Press Ctrl+C to stop)
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.123 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.123 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.109 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.109 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.116 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.116 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.078 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.078 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.11 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.11 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.123 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.123 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.111 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.111 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.075 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.075 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.11 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.11 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.112 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.112 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.112 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.112 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.123 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.123 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.107 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.107 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.148 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.148 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.108 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.108 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.159 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.159 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.099 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.099 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.149 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.149 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.067 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.067 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.113 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.113 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.104 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.104 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.103 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.103 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.041 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.041 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.108 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.108 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.063 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.063 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.136 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.136 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.046 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.046 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.117 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.117 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.107 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.107 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.105 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.105 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.127 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.127 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.111 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.111 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.06 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.06 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.152 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.152 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.05 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.05 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.124 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.124 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.049 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.049 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.104 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.104 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		4 ms
+Sender buffering	~6 ms
+Network			0.044 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.044 ms
+========================================
+
+========================================
+Component		Delay
+===========================Receiving audio... (Press Ctrl+C to stop)
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.131 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.131 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.054 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.054 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.033 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.033 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.045 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.045 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.031 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.031 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.04 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.04 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.045 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.045 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.135 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.135 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.058 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.058 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.124 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.124 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.033 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.033 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.042 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.042 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.032 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.032 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.042 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.042 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.119 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.119 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.04 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.04 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.036 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.036 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.037 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.037 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.046 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.046 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.076 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.076 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.052 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.052 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.117 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.117 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.035 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.035 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.059 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.059 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.039 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.039 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.066 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.066 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.028 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.028 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.044 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.044 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.12 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.12 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.034 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.034 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.07 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.07 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.102 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.102 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.05 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.05 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.09 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.09 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.044 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.044 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.106 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.106 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.037 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.037 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.032 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.032 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.114 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.114 ms
+========================================
+
+========================================
+Component		Delay
+===============================Sending audio... (Press Ctrl+C to stop)
+OOOOOOOOOOOOOOOOOOOO=========
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.081 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.081 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.142 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.142 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.045 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.045 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.153 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.153 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.049 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.049 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.114 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.114 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.109 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.109 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.03 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.03 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.091 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.091 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.035 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.035 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.16 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.16 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.083 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.083 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.112 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.112 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.025 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.025 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.026 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.026 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.037 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.037 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.035 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.035 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.031 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.031 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.057 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.057 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.042 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.042 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.034 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.034 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.041 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.041 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			9.653 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~27.653 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			6.696 ms
+Jitter buffer		~2 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~26.696 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.82 ms
+Jitter buffer		~4 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~22.82 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.032 ms
+Jitter buffer		~2 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.032 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.038 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.038 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.773 ms
+Jitter buffer		~10 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~28.773 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.045 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.045 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			2.145 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.145 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.081 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.081 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			4.771 ms
+Jitter buffer		~4 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~26.771 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.849 ms
+Jitter buffer		~6 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~24.849 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.028 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.028 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.041 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.041 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.045 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.045 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			6.168 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~24.168 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			2.916 ms
+Jitter buffer		~2 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~22.916 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.116 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.116 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.062 ms
+Jitter buffer		~2 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~20.062 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.047 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.047 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.066 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.066 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.04 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.04 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.154 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.154 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			7.828 ms
+Jitter buffer		~2 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~27.828 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.143 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.143 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.247 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.247 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.212 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.212 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.144 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.144 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.058 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.058 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.045 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.045 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			0.118 ms
+Jitter buffer		~0 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY		~18.118 ms
+========================================
+
+========================================
+Component		Delay
+========================================
+Frame size		2 ms
+Sender buffering	~6 ms
+Network			3.46 ms
+Jitter buffer		~4 ms
+Playback buffer		~10 ms
+----------------------------------------
+TOTAL LATENCY
+=============================================
+Running Analysis for 4ms (192 frames)
+=============================================
+Modifying header files...
+Compiling C++ executables...
+Starting processes and logging to results/4ms_test\latency_log.csv...
+Recording audio stream data for 10 seconds...
+Stopping processes gracefully...
+Generating Matplotlib graphs...
+Graphs successfully generated and saved in: results/4ms_test
+
+=============================================
+Running Analysis for 2ms (96 frames)
+=============================================
+Modifying header files...
+Compiling C++ executables...
+Starting processes and logging to results/2ms_test\latency_log.csv...
+Recording audio stream data for 10 seconds...
+Stopping processes gracefully...
+Generating Matplotlib graphs...
+Graphs successfully generated and saved in: results/2ms_test
+
+Automated Audio Testing Suite Complete! Check the 'results' folder.

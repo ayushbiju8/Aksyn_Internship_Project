@@ -9,7 +9,7 @@
 #include <portaudio.h>
 #include <atomic>
 #include <csignal>
-#include <thread>
+#include <thread> 
 #include <fstream>
 
 // Link the Winsock library for network functionality
@@ -18,7 +18,7 @@
 // --- Audio Configuration ---
 // Must match the sender exactly: 48kHz and 192 frames (4ms of audio)
 #define SAMPLE_RATE 48000
-#define FRAMES_PER_BUFFER 96
+#define FRAMES_PER_BUFFER 192
 
 // 📦 Packet structure
 // Must exactly match the sender's structure to deserialize UDP payload properly

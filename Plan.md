@@ -106,7 +106,7 @@ Mic → Frame → Packet → UDP → Receive → Buffer → Playback
 
 * Frame: 4 ms
 * Network: 2–5 ms
-* Buffer: 8 ms
+* Buffer: 8 ms 
 
 **Expected Latency**
 ≈ 14–17 ms

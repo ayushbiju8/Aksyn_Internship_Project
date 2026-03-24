@@ -18,7 +18,7 @@
 #define SAMPLE_RATE 48000
 // We use a small buffer (192 frames) to achieve very low latency.
 // At 48kHz, 192 frames is exactly 4 milliseconds of audio per packet.
-#define FRAMES_PER_BUFFER 96
+#define FRAMES_PER_BUFFER 192
 
 // 📦 Packet structure
 // This is the payload structure sent over the network.
@@ -178,7 +178,7 @@ int main() {
     Pa_Terminate();
     
     // Close the network socket and cleanup Winsock
-    closesocket(sock);
+    closesocket(sock); 
     WSACleanup();
     
     std::cout << "Sender stopped cleanly.\n";
